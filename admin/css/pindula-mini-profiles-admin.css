@@ -1,0 +1,18 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .make_primary{
+    float:right;
+    background:none!important;
+    color:#3366BB;
+    border:none; 
+    padding:0!important;
+    font: inherit;
+    cursor: pointer;
+}
+.make_primary:hover{
+   text-decoration: underline;
+   cursor: pointer;
+}
+
